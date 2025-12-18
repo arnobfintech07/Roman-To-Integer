@@ -21,7 +21,7 @@ You need a modern web browser or a JavaScript runtime environment which can be r
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Roman-Numbers-Conversion
+    cd Roman-To-Integer
 
 ### How it Works
 The algorithm iterates through the input string and compares the value of the current Roman symbol with the one following it:
